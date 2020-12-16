@@ -8,6 +8,8 @@
 3.
 4.
 
+技术栈有 `JavaScript` `HTML` `CSS`
+
 ```JavaScript
 function f(){
    let a = 1;
